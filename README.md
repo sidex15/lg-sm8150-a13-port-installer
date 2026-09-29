@@ -42,11 +42,11 @@ How the two differ, taken from each port's `update-binary`:
 ### **A13 port Installer Zips**
 **For LG V50s/G8x**
 
-https://drive.google.com/file/d/1aZxKbggvoO53nwqewA0POgjhyHFwB4yz/view?usp=drive_link
+[https://drive.google.com/file/d/1aZxKbggvoO53nwqewA0POgjhyHFwB4yz/view?usp=drive_link](https://drive.google.com/drive/u/2/folders/1RljU2sw-gcyHkPsr10tW9Yo-LijnL5OL)
 
 **For LG V50**
 
-https://drive.google.com/file/d/1LPlNvUJRbX4Oslvg1Z2vKF3IWFcsDhwu/view?usp=drive_link
+[https://drive.google.com/file/d/1LPlNvUJRbX4Oslvg1Z2vKF3IWFcsDhwu/view?usp=drive_link](https://drive.google.com/drive/u/2/folders/1kYsb6kcEhctSxWPYm3n3kMvdgrU1jGEN)
 
 **A Linux environment with root.** The images are loop-mounted, which needs root.
 
