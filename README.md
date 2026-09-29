@@ -285,7 +285,7 @@ keep the installer's names and structure so the two can be compared side by
 side.
 
 ## Todo
-* Make a universal Port installer for the rest of the LG SM8150 Deices (G8 and G8s)
+* Make a universal Port installer for the rest of the LG SM8150 Devices (G8 and G8s)
 
 ## Contributions
 Any contributions is good to help this A13 port for usable for all LG sm8150 Devices. :)
